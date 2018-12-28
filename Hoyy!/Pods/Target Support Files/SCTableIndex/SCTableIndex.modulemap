@@ -1,0 +1,6 @@
+framework module SCTableIndex {
+  umbrella header "SCTableIndex-umbrella.h"
+
+  export *
+  module * { export * }
+}

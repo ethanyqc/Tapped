@@ -1,0 +1,6 @@
+framework module PushMenu {
+  umbrella header "PushMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

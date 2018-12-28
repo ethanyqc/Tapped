@@ -1,0 +1,29 @@
+project 'Hoyy!.xcodeproj'
+
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+
+target 'Hoyy!' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Hoyy!
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Database'
+  pod 'Firebase/Storage'
+  pod 'TextFieldEffects'
+  pod 'Firebase/Messaging'
+  pod 'SDWebImage'
+  pod 'DZNEmptyDataSet'
+  pod 'PushMenu'
+  pod "SCTableIndex"
+  pod 'NotificationBannerSwift'
+  pod 'NVActivityIndicatorView'
+  pod 'RSKPlaceholderTextView'
+  pod 'ColorSlider'
+  pod 'UIColor_Hex_Swift'
+  pod 'CHIPageControl'
+
+
+end
